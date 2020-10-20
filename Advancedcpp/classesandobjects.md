@@ -483,6 +483,8 @@ void m() {
     // without cast
     T t = x; // error: E2034 Cannot convert 'X' to 'T'
 }
+
+
 7. Read only objects
 
 class Sample {
