@@ -414,7 +414,7 @@ public:
 In the above example,  t is a reference member of Test class and is initialized using Initializer List.
 
 
-Iii. For initialization of member objects which do not have default constructor:
+Iii. For initializatiion of member objects which do not have default constructor:
 
 #include <iostream> 
 using namespace std; 
